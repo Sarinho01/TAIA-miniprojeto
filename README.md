@@ -24,4 +24,4 @@ docker run ho_shipnet
 ```
 ## References
 
-- Article link: https://www.sciencedirect.com/science/article/pii/S0952197624006754?ref=pdf_download&fr=RR-2&rr=8de839ef8be11a97
+- Paper link: https://www.sciencedirect.com/science/article/pii/S0952197624006754?ref=pdf_download&fr=RR-2&rr=8de839ef8be11a97
